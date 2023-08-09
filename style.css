@@ -164,6 +164,49 @@ body {
 /* ********************* */
 
 /* SECTION-4 ITEMS */
+.section-4 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: 100px 0;
+}
+
+.cta-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3882F6;
+    width: 1020px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.cta-innerbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+}
+
+.cta-text {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    gap: 5px;
+}
+
+.cta-button {
+    color: white;
+    font-size: 18px;
+    background-color: #3882F6;
+    font-weight: bold;
+    padding: 7px 30px;
+    border: 2px solid white;
+    border-radius: 7px;
+}
+/* ********************* */
+
+/* FOOTER */
 
 
 /* ********************* */
