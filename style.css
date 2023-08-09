@@ -216,4 +216,10 @@ body {
     color: #F9FAF8;
 }
 
+.footer a {
+    text-decoration: none;
+    color: #F9FAF8;
+    margin: 0 5px;
+}
+
 /* ********************* */
