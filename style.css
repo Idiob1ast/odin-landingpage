@@ -71,6 +71,11 @@ body {
     border-radius: 7px;
 }
 
+.hero-button a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
 .hero-image {
     display: flex;
     align-items: center;
@@ -203,6 +208,11 @@ body {
     padding: 7px 30px;
     border: 2px solid white;
     border-radius: 7px;
+}
+
+.cta-button a {
+    text-decoration: none;
+    color: #F9FAF8;
 }
 /* ********************* */
 
